@@ -1,3 +1,3 @@
 # modern.css_framework_v0.1_BETA
-modern.css framework
+modern.css framework.
 Just simple framework with colors, text formating,etc...
