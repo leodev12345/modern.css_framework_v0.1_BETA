@@ -1,0 +1,233 @@
+.center{
+    text-align:center;
+}
+
+.right{
+     text-align:right;
+}
+
+.left{
+     text-align:left;
+}
+
+.underline{
+    text-decoration:underline;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+.overline{
+    text-decoration:overline;
+}
+
+.line-thr{
+    text-decoration:line-through;
+}
+
+.italic{
+    font-style:italic;
+}
+
+.up{
+    text-transform:uppercase;
+}
+
+.low{
+    text-transform:lowercase
+}
+
+.cap{
+    text-transform:capitalize;
+}
+
+.bg-red{
+    background-color:red;
+} 
+
+.bg-blue{
+    background-color:blue;
+}
+
+.bg-green{
+    background-color:green;
+}
+
+.bg-lb{
+    background-color:lightblue;
+}    
+
+.bg-lg{
+    background-color:lightgreen;
+} 
+
+.bg-gray{
+    background-color:gray;
+}
+
+.bg-lig{
+    background-color:lightgray;
+}  
+
+.bg-yellow{
+    background-color:yellow;
+} 
+
+.bg-orange{
+    background-color:orange;
+} 
+
+.bg-black{
+    background-color:black;
+}
+
+.bg-white{
+    background-color:white;
+} 
+
+.bg-pink{
+    background-color:pink;
+} 
+
+.bg-purple{
+    background-color:purple;
+} 
+
+.red{
+    color:red;
+}
+
+.blue{
+   color:blue; 
+}
+
+.light-blue{
+   color:lightblue; 
+}
+
+.orange{
+   color:orange; 
+}
+
+.yellow{
+   color:yellow; 
+}
+
+.green{
+   color:green; 
+}
+
+.pink{
+   color:pink; 
+}
+
+.purple{
+   color:purple; 
+}
+
+.black{
+    color:black;
+}
+
+.white{
+   color:white; 
+}
+
+.light-green{
+   color:lightgreen; 
+}
+
+.gray{
+   color:gray; 
+}
+
+.light-gray{
+   color:lightgray; 
+}
+
+.modern-container{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding-top:50px;
+    padding-bottom:50px;
+    font-size:20px;
+}
+
+.midle{
+    padding-top:100px;
+    padding-bottom:100px;
+    text-align:center;
+}
+
+.hr-red{
+    border-color:red;
+}
+
+.hr-green{
+    border-color:green;
+}
+
+.hr-blue{
+    border-color:blue;
+}
+
+.hr-lb{
+    border-color:lightblue;
+}
+
+.hr-lg{
+    border-color:lightgreen;
+}
+
+.hr-gray{
+    border-color:gray;
+}
+
+.hr-lig{
+    border-color:lightgray;
+}
+
+.hr-yellow{
+    border-color:yellow;
+}
+
+.hr-orange{
+    border-color:orange;
+}
+
+.hr-black{
+    border-color:black;
+}
+
+.hr-white{
+    border-color:white;
+}
+
+.hr-pink{
+    border-color:pink;
+}
+
+.hr-purple{
+    border-color:purple;
+}
+
+a{
+    color:orange;
+    text-decoration:none;
+    font-size:20px;
+}
+
+a:hover{
+    color:black;
+    text-decoration:none;
+    font-size:20px;
+}
+
+a:active{
+    color:black;
+    text-decoration:none;
+    font-size:20px;
+}
+
