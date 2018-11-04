@@ -1,5 +1,5 @@
 # modern.css_framework_v0.1_BETA
-##classes:
+## classes:
 
 .bg-color - sets the background 
 
