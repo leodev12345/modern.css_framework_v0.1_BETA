@@ -41,4 +41,6 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 
 .low - creates lowercase text
 
+[all modern.css classes](https://leodev12345.github.io/modern.css_framework_v0.1_BETA/)
+
 
