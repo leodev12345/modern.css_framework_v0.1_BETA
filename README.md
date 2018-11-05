@@ -18,7 +18,9 @@ red,green,blue,gray,light-gray,light-green,black,white,pink,purple,yellow,orange
 avibile colors:
 
 red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue).
+
 .modern-container - create black box with white text aligned to center
+
 .middle - sets same padding for top and bottom
 
 .center - aligns text to center
