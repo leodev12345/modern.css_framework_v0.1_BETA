@@ -1,17 +1,19 @@
 # modern.css_framework_v0.1_BETA
 ## classes:
 
-.bg-color - sets the background 
+.bg-*color* - sets the background 
 
 avibile colors:
 
 red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue).
-.color - sets the text colors
+
+.*color* - sets the text color
 
 avibile colors:
 
 red,green,blue,gray,light-gray,light-green,black,white,pink,purple,yellow,orange,light-blue.
-.hr-color - sets hr element color
+
+.hr-*color* - sets hr element color
 
 avibile colors:
 
@@ -25,7 +27,7 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 
 .left - aligns text to left
 
-.line-the - sets through line on text
+.line-thr - sets through line on text
 
 .italic - creates italic text
 
